@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "179539463050",
+    "project_id": "pcrepairtoolb",
+    "storage_bucket": "pcrepairtoolb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179539463050:android:46d76df8835145236dd673",
+        "android_client_info": {
+          "package_name": "ch.techspeak.pcrepairtoolbox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179539463050-6jvcd5ednkeivf927r7m75jep21d68vv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ch.techspeak.pcrepairtoolbox",
+            "certificate_hash": "774972423b865d2d341381e8d0ff66572a21c55d"
+          }
+        },
+        {
+          "client_id": "179539463050-9gfbbsi4fivtj3ifl978uduannk3r5q8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYm3Bv6wUrngxuldMN0NvXaFrLSwVoCjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "179539463050-9gfbbsi4fivtj3ifl978uduannk3r5q8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
